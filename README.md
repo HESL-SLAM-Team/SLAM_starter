@@ -38,6 +38,9 @@
 - Use checkerboard patterns for **intrinsic calibration**.
 - Ensure cameras are stable and aligned, especially for stereo and multi-camera setups.
 
+### Suggested Reading
+- [Camera Calibration Course by First Principles of Computer Vision](https://www.youtube.com/playlist?list=PL2zRqk16wsdoCCLpou-dGo7QQNks1Ppzo)
+
 
 ## 4. Camera Placement in SLAM
 - **Monocular**: Typically mounted forward-facing.
