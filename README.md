@@ -6,7 +6,7 @@
 ROS, or **Robot Operating System**, is a flexible framework for writing robot software. It provides tools, libraries, and conventions aimed at simplifying the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
 
 ### Installation
-ROS Noetic Ninjemys for Ubuntu 20.04 (Focal) release. Instruction (here)[https://wiki.ros.org/noetic/Installation/Ubuntu].
+ROS Noetic Ninjemys for Ubuntu 20.04 (Focal) release. Instruction [here](https://wiki.ros.org/noetic/Installation/Ubuntu).
 
 ## Key Features of ROS
 - **Modularity**: ROS is built around a publish/subscribe communication model that promotes modular design, enabling developers to focus on specific components without worrying about the entire system.
