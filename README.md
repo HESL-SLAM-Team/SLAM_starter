@@ -41,18 +41,12 @@
 ### Strongly Suggested Reading!!!
 - [Camera Calibration Course by First Principles of Computer Vision](https://www.youtube.com/playlist?list=PL2zRqk16wsdoCCLpou-dGo7QQNks1Ppzo)
 
+### Calibration Tools
+- ROS [Camera_calibration](https://wiki.ros.org/camera_calibration)
 
-## 4. Camera Placement in SLAM
-- **Monocular**: Typically mounted forward-facing.
-- **Stereo**: Baseline distance must match the target depth range.
-- **RGB-D**: Avoid reflective or transparent surfaces to prevent interference.
-
-
-
-## 5. Popular Cameras for SLAM
-- **Intel RealSense**: RGB-D and stereo options.
-- **ZED Stereo Cameras**: High-quality stereo imaging.
-- **Microsoft Azure Kinect**: Combines advanced depth sensing and color capture.
+## 4. Popular Cameras for SLAM
+- **Intel RealSense**: RGB-D and stereo options. SDK installation instruction [here].(https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md)
+- **ZED Stereo Cameras**: High-quality stereo imaging. SDK installation instruction [here](https://www.stereolabs.com/en-sg/developers/release)
 
 
 
