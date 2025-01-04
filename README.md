@@ -1,5 +1,21 @@
 # Introduction to SLAM: A Beginner’s Guide for Students
 
+## Introduction to ROS (Robot Operating System)
+
+### What is ROS?
+ROS, or **Robot Operating System**, is a flexible framework for writing robot software. It provides tools, libraries, and conventions aimed at simplifying the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
+
+### Installation
+ROS Noetic Ninjemys for Ubuntu 20.04 (Focal) release. Instruction (here)[https://wiki.ros.org/noetic/Installation/Ubuntu].
+
+## Key Features of ROS
+- **Modularity**: ROS is built around a publish/subscribe communication model that promotes modular design, enabling developers to focus on specific components without worrying about the entire system.
+- **Tools**: Includes tools for simulation, visualization, and debugging, such as:
+  - `rviz`: For 3D visualization of robot states and sensor data.
+  - `Gazebo`: For simulating robots in a virtual environment.
+- **Cross-Platform Support**: Runs on various operating systems like Ubuntu and supports hardware abstraction.
+- **Wide Ecosystem**: Contains a large library of pre-built packages for tasks like navigation, control, and perception.
+
 ## 1. Types of Cameras for SLAM
 ### Monocular Camera
 - Captures a single 2D image stream.
