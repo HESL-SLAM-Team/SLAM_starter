@@ -46,7 +46,7 @@
 - [kalibr](https://github.com/ethz-asl/kalibr)
 
 ## 4. Popular Cameras for SLAM
-- **Intel RealSense**: RGB-D and stereo options. SDK installation instruction [here].(https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md)
+- **Intel RealSense**: RGB-D and stereo options. SDK installation instruction [here](https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md)
 - **ZED Stereo Cameras**: High-quality stereo imaging. SDK installation instruction [here](https://www.stereolabs.com/en-sg/developers/release)
 
 
