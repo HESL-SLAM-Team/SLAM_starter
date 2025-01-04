@@ -16,7 +16,6 @@
 - **Depth Technology**: Structured light or time-of-flight (ToF).
 - **Examples**: Microsoft Kinect, Intel RealSense.
 
----
 
 ## 2. Key Camera Parameters
 ### Intrinsic Parameters
