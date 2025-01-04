@@ -70,3 +70,6 @@ ROS, or **Robot Operating System**, is a flexible framework for writing robot so
 - [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3)
 - [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)
 
+## 6. Suggested reading for SLAM
+- [Factor Graphs and GTSAM Tutorial](https://gtsam.org/tutorials/intro.html)
+- [14 Lectures on Visual SLAM: From Theory to Practice](https://github.com/gaoxiang12/slambook-en/blob/master/slambook-en.pdf)
