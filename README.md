@@ -66,5 +66,7 @@ ROS, or **Robot Operating System**, is a flexible framework for writing robot so
 - **Intel RealSense**: RGB-D and stereo options. SDK installation instruction [here](https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md).
 - **ZED Stereo Cameras**: High-quality stereo imaging. SDK installation instruction [here](https://www.stereolabs.com/en-sg/developers/release).
 
-
+## 5. Open-Sourced SLAM Algorithms
+- [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3)
+- [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)
 
