@@ -42,7 +42,8 @@
 - [Camera Calibration Course by First Principles of Computer Vision](https://www.youtube.com/playlist?list=PL2zRqk16wsdoCCLpou-dGo7QQNks1Ppzo)
 
 ### Calibration Tools
-- ROS [Camera_calibration](https://wiki.ros.org/camera_calibration)
+- ROS [Camera_calibration](https://wiki.ros.org/camera_calibration) (Recommended for monocular and stereo cameras calibration)
+- [kalibr](https://github.com/ethz-asl/kalibr)
 
 ## 4. Popular Cameras for SLAM
 - **Intel RealSense**: RGB-D and stereo options. SDK installation instruction [here].(https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md)
