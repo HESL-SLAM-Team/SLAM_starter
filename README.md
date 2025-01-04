@@ -1,5 +1,4 @@
 # Introduction to SLAM: A Beginner’s Guide for Students
----
 
 ## 1. Types of Cameras for SLAM
 ### Monocular Camera
