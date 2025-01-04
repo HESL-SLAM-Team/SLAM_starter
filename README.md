@@ -34,25 +34,23 @@
 ### Frame Rate
 - Higher frame rates are crucial for smooth tracking in fast-moving environments.
 
----
 
 ## 3. Calibration and Setup
 - Use checkerboard patterns for **intrinsic calibration**.
 - Ensure cameras are stable and aligned, especially for stereo and multi-camera setups.
 
----
 
 ## 4. Camera Placement in SLAM
 - **Monocular**: Typically mounted forward-facing.
 - **Stereo**: Baseline distance must match the target depth range.
 - **RGB-D**: Avoid reflective or transparent surfaces to prevent interference.
 
----
+
 
 ## 5. Popular Cameras for SLAM
 - **Intel RealSense**: RGB-D and stereo options.
 - **ZED Stereo Cameras**: High-quality stereo imaging.
 - **Microsoft Azure Kinect**: Combines advanced depth sensing and color capture.
 
----
+
 
